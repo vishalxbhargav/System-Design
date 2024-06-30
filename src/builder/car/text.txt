@@ -1,0 +1,13 @@
+Car Specs:
+Engine: V8 Engine
+Transmission: Automatic Transmission
+Seats: Leather Seats
+GPS: Advanced GPS
+Sunroof: Panoramic Sunroof
+
+Car Specs:
+Engine: I4 Engine
+Transmission: Manual Transmission
+Seats: Cloth Seats
+GPS: Basic GPS
+Sunroof: No Sunroof
