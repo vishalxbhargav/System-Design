@@ -9,7 +9,7 @@ public class Theme {
     static Theme theme=null;
     private Theme(){}
     public  void setTheme(Mode mode){
-        this.mode=mode;
+        Theme.mode=mode;
     }
     public  Mode getTheme(){
         return mode;
