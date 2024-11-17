@@ -2,10 +2,6 @@ package abstractfactory;
 
 import java.util.Scanner;
 
-import abstractfactory.ui.GUIAbstractFactory;
-import abstractfactory.ui.IButton;
-// import abstractfactory.ui.IFactory;
-import abstractfactory.ui.ITextbox;
 import abstractfactory.vehicle.IBike;
 import abstractfactory.vehicle.ICar;
 import abstractfactory.vehicle.IFactory;

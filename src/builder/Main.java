@@ -2,10 +2,6 @@ package builder;
 
 import builder.car.*;
 import builder.car.LuxuryCarBuilder;
-import builder.desktop.DellDesktopBuilder;
-import builder.desktop.Desktop;
-import builder.desktop.DesktopDirector;
-import builder.desktop.HpDesktopBuilder;
 
 public class Main {
     public static void main(String[] args) {
